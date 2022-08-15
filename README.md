@@ -1,7 +1,7 @@
 # exhaustion
 A tiny library to help in exhaustive testing of Boolean functions in Python.
 
-![Logo](logo.svg)
+![Logo](https://raw.githubusercontent.com/lambdacasserole/exhaustion/main/logo.svg)
 
 ## Requirements
 
