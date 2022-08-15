@@ -1,6 +1,6 @@
 [tool.poetry]
-name = "exhaust"
-version = "0.1.0"
+name = "exhaustion"
+version = "1.0.0"
 description = "A tiny library to help in exhaustive testing of Boolean functions in Python."
 authors = ["Saul Johnson <saul.a.johnson@gmail.com>"]
 license = "MIT"
