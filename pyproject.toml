@@ -1,7 +1,9 @@
 [tool.poetry]
 name = "exhaustion"
-version = "1.0.0"
+version = "1.0.1"
 description = "A tiny library to help in exhaustive testing of Boolean functions in Python."
+readme = "README.md"
+repository = "https://github.com/lambdacasserole/exhaustion.git"
 authors = ["Saul Johnson <saul.a.johnson@gmail.com>"]
 license = "MIT"
 
